@@ -3,7 +3,6 @@
 abstract class Parent{
                                                                         /* Abstract class with Abstarct method */
     int x;
-
     abstract public void print();
 }
 
@@ -17,7 +16,6 @@ public class abstraction{
     public static void main(String[] args) {
 
         child pr = new child();
-
         pr.print();
     }
 }

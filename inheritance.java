@@ -13,5 +13,4 @@ class Child extends Parent{
 }
 
 class SubChild extends Child{
-
 }                                                               /* Now Multilevel Inheritance */

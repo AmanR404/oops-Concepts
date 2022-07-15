@@ -4,7 +4,6 @@ public class incapsulation {
     String name;
 
     void method(){
-
     }
 }
 

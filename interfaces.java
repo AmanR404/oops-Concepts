@@ -16,3 +16,10 @@ class child implements Parent{
         return 2;
     }
 }
+
+public class interfaces{
+    public static void main(String[] args) {
+        child obj = new child();
+        obj.print();
+    }
+}
